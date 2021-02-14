@@ -13,7 +13,7 @@
 	
 	<modules>
 		<module>springmvc-jpa-demo</module>
-		<module>hello-springboot</module>		
+		<module>hello-springboot</module>
 	</modules>
 	
 </project>
